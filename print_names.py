@@ -1,2 +1,2 @@
-def print_full_name(first,family):
+def print_full_name(first, family):
     return first + family
